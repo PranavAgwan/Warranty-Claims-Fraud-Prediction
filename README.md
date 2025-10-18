@@ -39,11 +39,24 @@ The main objective is to classify warranty claims as **fraudulent (1)** or **gen
   - Due to limited fraudulent data, models had **low recall** for fraud detection.
   - Future improvements can include **data augmentation or oversampling (SMOTE)**.
 
+
+### 📸 Dashboard Preview
+
+#### Page 1 : Fraud Overview
+![Dashboard Preview1](dashboard_preview1.png)
+
+#### Page 2 : Fraud by Region and Consumer Profile
+![Dashboard Preview2](dashboard_preview2.png)
+
+#### Page 3 : Fraud by Product Type
+![Dashboard Preview1](dashboard_preview3.png)
+
 ---
 
 ## 🧾 Conclusion
-This analysis provides actionable insights into warranty claim fraud patterns.  
-Although the models achieved high overall accuracy, the **imbalance in fraud data** limited fraud-specific recall. Expanding the dataset can further improve model robustness and fraud detection capabilities.
+- This analysis provides actionable insights into warranty claim fraud patterns.  
+- Although the models achieved high overall accuracy, the **imbalance in fraud data** limited fraud-specific recall.
+- Expanding the dataset can further improve model robustness and fraud detection capabilities.
 
 ---
 
@@ -56,6 +69,11 @@ Although the models achieved high overall accuracy, the **imbalance in fraud dat
 ---
 
 ## 👨‍💻 Author
-**Pranav Agwan**  
-Data Science & Machine Learning Enthusiast  
-📫 [LinkedIn](https://www.linkedin.com/in/pranavagwan) | [GitHub](https://github.com/pranavagwan)
+
+👤 Name : **Pranav Agwan** 
+
+📧 Mail : agwanpranav123@gmail.com 
+
+🔗 LinkedIn Profile : www.linkedin.com/in/pranav-agwan-84b80b211  
+
+
