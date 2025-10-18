@@ -61,11 +61,14 @@ The main objective is to classify warranty claims as **fraudulent (1)** or **gen
 ---
 
 ## 💻 Tech Stack
-- Python  
-- Pandas, NumPy, Matplotlib, Seaborn  
-- Scikit-learn  
-- Jupyter Notebook
-- Power BI
+| Tool | Purpose |
+|------|---------|
+| **Python** | Data processing, analysis, and modeling |
+| **Pandas & NumPy** | Data cleaning, manipulation, and feature engineering |
+| **Matplotlib & Seaborn** | Data visualization and exploratory analysis |
+| **Scikit-learn** | Machine learning models and evaluation |
+| **Jupyter Notebook** | Integrated environment for code, analysis, and reporting |
+| **Power BI** | Creating insightful dashboards |
 
 ---
 
