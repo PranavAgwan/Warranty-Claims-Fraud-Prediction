@@ -64,7 +64,8 @@ The main objective is to classify warranty claims as **fraudulent (1)** or **gen
 - Python  
 - Pandas, NumPy, Matplotlib, Seaborn  
 - Scikit-learn  
-- Jupyter Notebook  
+- Jupyter Notebook
+- Power BI
 
 ---
 
